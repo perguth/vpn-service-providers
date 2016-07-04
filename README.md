@@ -1,4 +1,4 @@
-# VPN Service Provider
+# VPN Service Providers
 
 > A list of cool\* VPN service providers.
 
