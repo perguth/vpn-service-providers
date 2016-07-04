@@ -12,7 +12,7 @@
 [proxy.sh](https://proxy.sh/):sparkles: | :white_check_mark:/:white_check_mark:/:x: | :white_check_mark:/:white_check_mark: | :x: | :white_check_mark:/:white_check_mark: / 3 | :x: | 🇸🇨 <br> Seychelles | $15 <br> - <br> - <br> $12.50
 [VPN.ht](https://vpn.ht) | :white_check_mark:/:white_check_mark:/:x: | :white_check_mark:/:white_check_mark: | :white_check_mark: | :white_check_mark:/:x: / 3 | :x: | :cn: <br> China | $4.99 <br> - <br> - <br> $3.33 
 
-**Rules for adding:** The provider to be added should either provide a clear benefit over the already available ones (eg. in price or combination of features) **or** be an EFF or NGO supporter.
+**Rules for adding:** The provider to be added should either provide a clear benefit over the already available ones **or** be an EFF or NGO supporter.
 
 <sub>\*: They claim to: **a)** not save logs **b)** support the open web. Sparkles added if they support the [EFF](http://eff.org/) or NGOs.</sub>
 
