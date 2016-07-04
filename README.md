@@ -11,7 +11,7 @@
 [VPN.ht](https://vpn.ht) | :white_check_mark:/:white_check_mark:/:x: | :white_check_mark: / :white_check_mark: | :white_check_mark: | :white_check_mark: / 3 | :x: | :cn: China | $4.99 <br> - <br> - <br> $3.33 
 
 <br>
-![EFF surveillance self-defense](https://ssd.eff.org/sites/all/themes/ssd/logo.png)
+[![EFF surveillance self-defense](https://ssd.eff.org/sites/all/themes/ssd/logo.png)](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you)
 
 --
 
