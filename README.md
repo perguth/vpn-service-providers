@@ -4,6 +4,7 @@
 
      | PPTP / L2TP / IPsec | OpenVPN UDP/TCP | Proxy | International / multi-hop / simultaneous | Port forwarding | Country | Price monthly / quaterly / half-yearly / yearly 
  --- | :---: | :---: | :---:           | :---: | :---:                      | :---:           | :---:   |  ---:          | ---:           | ---:
+[HIDEme](https://hide.me) *2GB quota* | :grey_question:/:grey_question:/:grey_question: | :grey_question:/:x: | :grey_question: | :white_check_mark:/:x: / 1 | :x: | 🇲🇾 <br> Malaysia | 0.00 <br>  - <br>  - <br> -
 [HIDEme](https://hide.me) | :white_check_mark:/:white_check_mark:/:white_check_mark: | :white_check_mark:/:x: | :white_check_mark: | :white_check_mark:/:x: / 3 | :x: | 🇲🇾 <br> Malaysia | $10.00 <br>  - <br>  $6.67 <br> $5.42
 [HIDEme](https://hide.me) | :white_check_mark:/:white_check_mark:/:white_check_mark: | :white_check_mark:/:x: | :white_check_mark: | :white_check_mark:/:x: / 5 | :white_check_mark: | 🇲🇾 <br> Malaysia | $20.00 <br> - <br> $14.17 <br> $11.67
 [IPREDATOR](https://ipredator.se/) | :white_check_mark:/:x:/:x:  | :white_check_mark:/:x: | :x: | :x:/:x: / 1 | :x: | 🇸🇪 <br> Sweden | $8.00 <br> - <br> - <br> -
