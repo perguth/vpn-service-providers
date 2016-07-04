@@ -10,6 +10,8 @@
 [IVPN](https://www.ivpn.net/pricing):sparkles: | :x:/:white_check_mark:/:x: | :white_check_mark: / :white_check_mark: | :x: | :white_check_mark: / 3 | :white_check_mark: | 🇬🇮 Gibraltar | $15.00 <br> $12.33 <br> - <br> $7.92
 [VPN.ht](https://vpn.ht) | :white_check_mark:/:white_check_mark:/:x: | :white_check_mark: / :white_check_mark: | :white_check_mark: | :white_check_mark: / 3 | :x: | :cn: China | $4.99 <br> - <br> - <br> $3.33 
 
+<br>
+![EFF surveillance self-defense](https://ssd.eff.org/sites/all/themes/ssd/logo.png)
 
 --
 
