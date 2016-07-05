@@ -4,7 +4,7 @@
 
      | PPTP / L2TP / IPsec | OpenVPN UDP/TCP | International end-points / multi-hop / simultaneous connections | Port forwarding | Country | Price monthly,<br> quaterly,<br> biannual,<br> yearly 
  --- | :---: | :---: | :---:           | :---: | :---:                      | :---:           | :---:   |  ---:          | ---:           | ---:
-[HIDEme](https://hide.me) *2GB quota* | :white_check_mark:/:grey_question:/:white_check_mark: | :x:/:x: | :white_check_mark:/:x: / 1 | :x: | 🇲🇾 <br> Malaysia | 0.00 <br>  - <br>  - <br> -
+[HIDEme](https://hide.me) *2GB quota* | :white_check_mark:/:white_check_mark:/:white_check_mark: | :x:/:x: | :white_check_mark:/:x: / 1 | :x: | 🇲🇾 <br> Malaysia | 0.00 <br>  - <br>  - <br> -
 [HIDEme](https://hide.me) | :white_check_mark:/:white_check_mark:/:white_check_mark: | :white_check_mark:/:x: | :white_check_mark:/:x: / 5 | :white_check_mark: | 🇲🇾 <br> Malaysia | $20.00 <br> - <br> $14.17 <br> $11.67
 [IPREDATOR](https://ipredator.se/) | :white_check_mark:/:x:/:x:  | :white_check_mark:/:x: | :x:/:x: / 1 | :x: | 🇸🇪 <br> Sweden | $8.00 <br> - <br> - <br> -
 [IVPN](https://www.ivpn.net/pricing):sparkles: | :x:/:white_check_mark:/:x: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: / 3 | :white_check_mark: | 🇬🇮 <br> Gibraltar | $15.00 <br> $12.33 <br> - <br> $7.92
