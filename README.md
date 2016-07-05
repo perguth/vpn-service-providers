@@ -2,7 +2,7 @@
 
 > A list of cool\* VPN service providers.
 
-     | PPTP / L2TP / IPsec | OpenVPN UDP/TCP | Proxy | International / multi-hop / simultaneous | Port forwarding | Country | Price monthly / quaterly / half-yearly / yearly 
+     | PPTP / L2TP / IPsec | OpenVPN UDP/TCP | Proxy | International / multi-hop / simultaneous connections | Port forwarding | Country | Price monthly / quaterly / half-yearly / yearly 
  --- | :---: | :---: | :---:           | :---: | :---:                      | :---:           | :---:   |  ---:          | ---:           | ---:
 [HIDEme](https://hide.me) *2GB quota* | :white_check_mark:/:grey_question:/:white_check_mark: | :x:/:x: | :x: | :white_check_mark:/:x: / 1 | :x: | 🇲🇾 <br> Malaysia | 0.00 <br>  - <br>  - <br> -
 [HIDEme](https://hide.me) | :white_check_mark:/:white_check_mark:/:white_check_mark: | :white_check_mark:/:x: | :white_check_mark: | :white_check_mark:/:x: / 5 | :white_check_mark: | 🇲🇾 <br> Malaysia | $20.00 <br> - <br> $14.17 <br> $11.67
