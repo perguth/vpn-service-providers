@@ -15,8 +15,3 @@
 **Rules for adding:** The provider to be added should either provide a clear benefit over the already available ones **or** be an EFF or NGO supporter.
 
 <sub>\*: They claim to: **a)** not save logs **b)** support the open web. Sparkles added if they support the [EFF](http://eff.org/) or NGOs.</sub>
-
---
-
-<br>
-[![EFF surveillance self-defense](https://ssd.eff.org/sites/all/themes/ssd/logo.png)](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you)
