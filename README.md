@@ -9,7 +9,7 @@
 [IPREDATOR](https://ipredator.se/) | :white_check_mark:/:x:/:x:  | :white_check_mark:/:x: | :x:/:x: / 1 | :x: | 🇸🇪 <br> Sweden | $8.00 <br> - <br> - <br> -
 [IVPN](https://www.ivpn.net/pricing):sparkles: | :x:/:white_check_mark:/:x: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: / 3 | :white_check_mark: | 🇬🇮 <br> Gibraltar | $15.00 <br> $12.33 <br> - <br> $7.92
 [Perfect Privacy](https://www.perfect-privacy.com/) | :white_check_mark:/:x:/:white_check_mark: | :white_check_mark:/:x: | :white_check_mark:/:white_check_mark: / n | :white_check_mark: | 🇨🇭 <br> Switzerland | €16.49 <br> €14.98 <br> €14.16 <br> €12.50
-[proxy.sh](https://proxy.sh/):sparkles: | :white_check_mark:/:white_check_mark:/:x: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: / 3 | :x: | 🇸🇨 <br> Seychelles | $15 <br> - <br> - <br> $12.50
+[proxy.sh](https://proxy.sh/):sparkles: | :white_check_mark:/:white_check_mark:/:x: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: / 3 | :white_check_mark: | 🇸🇨 <br> Seychelles | $15 <br> - <br> - <br> $12.50
 [VPN.ht](https://vpn.ht) | :white_check_mark:/:white_check_mark:/:x: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:x: / 3 | :x: | :cn: <br> China | $4.99 <br> - <br> - <br> $3.33 
 
 **Rules for adding:** The provider to be added should either provide a clear benefit over the already available ones **or** be an EFF or NGO supporter.
